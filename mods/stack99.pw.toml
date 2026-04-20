@@ -1,0 +1,13 @@
+name = "Stack99"
+filename = "stack99-1.21.1-1.0.0-mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2b39d19c161fdc63dfa4e68a42203002fb9b0a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7254863
+project-id = 1390685

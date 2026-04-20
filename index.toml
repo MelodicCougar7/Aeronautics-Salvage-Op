@@ -981,10 +981,6 @@ file = "kubejs/server_scripts/caso_recipes.js"
 hash = "88e17dab666bcf063669a59ae7336868161e2c1e6a2cf197def26ed52f2fdc68"
 
 [[files]]
-file = "kubejs/server_scripts/jsconfig.json"
-hash = "bda1bdb91bec3fa51f1b7603c582604ab876e89678982e35d8722138e60c8574"
-
-[[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
 hash = "5d1d34f9763eb77f2e30b9fb62a8f4f056149b2c162b113157265ddef1b8dad3"
 
@@ -1148,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/flerovium.pw.toml"
-hash = "1e8c18bee7a056c9c549a77635df72723ed55bab74ee53909ebe8feefa802e03"
+hash = "f7b94ef95450b80b2e16fd1a3e2b4b67d6e8c1dc6faedff2064f0c5663d24edc"
 metafile = true
 
 [[files]]
