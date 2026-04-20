@@ -1,0 +1,13 @@
+name = "Create Aero Salvage Op"
+author = "MelodicCougar7, AwDavid"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0630fa4ef7d2d25a77ce91ae2a5742d65138d3aef1ea16fa29731b4ff475940d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"
