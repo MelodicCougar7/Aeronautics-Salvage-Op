@@ -1146,6 +1146,11 @@ hash = "25456f440dbfc30eadc971102d998b0a0b755735011877688aaed7d18720187b"
 metafile = true
 
 [[files]]
+file = "mods/flapjacks-economy-forked.pw.toml"
+hash = "bb8af1a25c3d58c4a946ce4e1ea71670bb03501cbca26e510f118bb2a8fbf35b"
+metafile = true
+
+[[files]]
 file = "mods/flerovium.pw.toml"
 hash = "ab318c94ea021413ca29bdbc166219eba879214d752e77e616687b349e05e3fd"
 metafile = true
@@ -1183,6 +1188,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "343d002587baea4b0558e11b2801cd5e5194ccc9e2edc8f327bb058029d275f1"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
 metafile = true
 
 [[files]]
@@ -1273,6 +1283,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "3978e88dcc1e854188871d74648bac5f1815a631508120f19d7a310e6106f91f"
+metafile = true
+
+[[files]]
+file = "mods/stackable-items.pw.toml"
+hash = "2c56b3730ecce9ef5212b950362aaf2ef58c84578d899e7f0aa8b7c145d819fc"
 metafile = true
 
 [[files]]
