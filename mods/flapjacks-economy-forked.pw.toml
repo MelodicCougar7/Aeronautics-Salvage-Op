@@ -1,0 +1,13 @@
+name = "Jack's Economy (Forked)"
+filename = "jackseconomy-forked-1.2.2-1.7.0-SNAPSHOT-1-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec6725aecf26b07432ce1f4f4c6368e2807ada29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7915190
+project-id = 1177343
