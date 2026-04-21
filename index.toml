@@ -1107,11 +1107,6 @@ hash = "cc18e394555421836d342d904a7771d6188f573f1b28b0000d705cd7945eb4a0"
 metafile = true
 
 [[files]]
-file = "mods/effortless-building.pw.toml"
-hash = "dc0924741264633ac6fefe57512b18771ff08765cd5c46600f4cb7bc71444491"
-metafile = true
-
-[[files]]
 file = "mods/exposure.pw.toml"
 hash = "cc380da912435ee2bae7744fa1d6c0235c9d70f65f91fb4f8c8dc2a88b68caac"
 metafile = true
