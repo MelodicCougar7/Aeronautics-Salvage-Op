@@ -1018,6 +1018,10 @@ hash = "6c5476790ea9862214f59a6dc628575c403b8e88491638f9078c859076bf0612"
 metafile = true
 
 [[files]]
+file = "mods/big_cannons_aeronautics_fix-0.1-Alpha.jar"
+hash = "c78d5594789713e205250533af2ce80427940064f982af43ffe627afe2e2e78c"
+
+[[files]]
 file = "mods/c2me.pw.toml"
 hash = "85283c010e410550932ad1f39871967165715093ada253f11f35d8ba54dccf31"
 metafile = true
