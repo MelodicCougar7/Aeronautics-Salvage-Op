@@ -1277,11 +1277,6 @@ hash = "580f93e107d18529a5360b61a6b49b6e57141df4df293b5fc76b2f82f948f261"
 metafile = true
 
 [[files]]
-file = "mods/stackable-items.pw.toml"
-hash = "e903252d165fbe4bbf6803e4711bf35649b87bef34bef19a1de9838f448dd5ca"
-metafile = true
-
-[[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "717e36565e0a844eb216ad8aac9d3db3a80a463cf4a92e2f6019d1fb77e718e8"
 metafile = true
