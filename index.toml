@@ -1048,7 +1048,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
+hash = "20f428659bba55b5e0b6db2947d9cca0413c5a7cf473a8d4121dfd2699db0001"
 metafile = true
 
 [[files]]
@@ -1142,7 +1142,7 @@ metafile = true
 
 [[files]]
 file = "mods/flapjacks-economy-forked.pw.toml"
-hash = "5b5525741ceff08f673fe9ff8ff5460e09cbcfba4b821b529b8fc1d40c4e42a2"
+hash = "699de0971b130fbf3b5640627d7683a26888b8f38728f0a54eea4fb45ba5bc68"
 metafile = true
 
 [[files]]
