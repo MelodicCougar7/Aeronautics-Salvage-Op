@@ -1014,7 +1014,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "57bd754c52e66855215248462afe332f322ad2d3c40130f3ecaf3e27963e4114"
+hash = "6c5476790ea9862214f59a6dc628575c403b8e88491638f9078c859076bf0612"
 metafile = true
 
 [[files]]
