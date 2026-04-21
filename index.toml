@@ -999,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "808ece20b2094c8ce0178e38661cc4d66b78d81bfe16f160ce3d95003031c6cd"
+hash = "45d79c227fbda9c1cfaacddd398d63d18288ebf76effe23ce45fe647843f04a3"
 metafile = true
 
 [[files]]
@@ -1014,7 +1014,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "57bd754c52e66855215248462afe332f322ad2d3c40130f3ecaf3e27963e4114"
+hash = "6c5476790ea9862214f59a6dc628575c403b8e88491638f9078c859076bf0612"
 metafile = true
 
 [[files]]
@@ -1034,7 +1034,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "0ab6221122899c77ae864035600506ff61062b3c53160c88e132703cc5dd07fc"
+hash = "0786180a1293c4932a6bcf613ed13b794cd6e2d8dcc3d4af42a64001b67f360f"
 metafile = true
 
 [[files]]
@@ -1049,7 +1049,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "e5664943a2c175b7771737f227346aec7d1d5882aa2dfccfd5cda484d3a7ada5"
+hash = "23b4bfa597127a65b4b9a284b115904dcfc3e64a35d9ada40688c346cfe9b0df"
 metafile = true
 
 [[files]]
@@ -1103,12 +1103,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "cc18e394555421836d342d904a7771d6188f573f1b28b0000d705cd7945eb4a0"
-metafile = true
-
-[[files]]
-file = "mods/effortless-building.pw.toml"
-hash = "dc0924741264633ac6fefe57512b18771ff08765cd5c46600f4cb7bc71444491"
+hash = "2513b526ac7603ebbcb951c953c16b38b0869210fc57532fbeda879437abe7cb"
 metafile = true
 
 [[files]]
@@ -1118,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "4d0b6b6a8a460deee7d352a64c01398c7dc974a0c668fa0b3f4de329f0481c05"
+hash = "bb4aa0e8628b6b3e9b7580e09fba6165f3e3d60a2f4708d032f2544710f06c46"
 metafile = true
 
 [[files]]
@@ -1133,7 +1128,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "25456f440dbfc30eadc971102d998b0a0b755735011877688aaed7d18720187b"
+hash = "d55d186c8a5566df9062bcb375af4f90621c9fbffec0e28ede4366d67ecdfc4c"
 metafile = true
 
 [[files]]
@@ -1143,7 +1138,7 @@ metafile = true
 
 [[files]]
 file = "mods/flerovium.pw.toml"
-hash = "ae2d1fc3f191f3ff13d7bd2fe0a78ad98fe480801cffdba25c3cbe7df5bd6f6b"
+hash = "1b07fc82ab4e7abe72222f251277a8d56ce175e44b85df05388c86fe9b3e3a58"
 metafile = true
 
 [[files]]
@@ -1158,7 +1153,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "eea5c849bd5aff4dd3c56b288d1623b177570156520f628a3ce4e4cd8bf8e857"
+hash = "4d063f9bc5d47218a9983ea5d551fce2e0850742cd6ec66b8681cc04c2fb1f42"
 metafile = true
 
 [[files]]
@@ -1268,7 +1263,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "7f0930ab1d7d344f81da36abd9a0487bebe328d94c3d04f7a4daab67d902e992"
+hash = "3538f5f89357833d9b167908f4e9d9e6511ed940332e1f453f60cccb1f2e5dc6"
 metafile = true
 
 [[files]]
@@ -1279,11 +1274,6 @@ metafile = true
 [[files]]
 file = "mods/stack99.pw.toml"
 hash = "580f93e107d18529a5360b61a6b49b6e57141df4df293b5fc76b2f82f948f261"
-metafile = true
-
-[[files]]
-file = "mods/stackable-items.pw.toml"
-hash = "e903252d165fbe4bbf6803e4711bf35649b87bef34bef19a1de9838f448dd5ca"
 metafile = true
 
 [[files]]
